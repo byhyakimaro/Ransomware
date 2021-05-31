@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Pure-Python Implementation of the AES block-cipher and common modes of operation"
+name = "pyaes"
+optional = false
+python-versions = "*"
+version = "1.6.1"
+
+[metadata]
+content-hash = "188942ccce275bc67e7527a498e533c1070172f1b77d3cbd9afba116c5c67a40"
+python-versions = "^3.8"
+
+[metadata.files]
+pyaes = [
+    {file = "pyaes-1.6.1.tar.gz", hash = "sha256:02c1b1405c38d3c370b085fb952dd8bea3fadcee6411ad99f312cc129c536d8f"},
+]
